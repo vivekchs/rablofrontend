@@ -1,0 +1,6 @@
+.helo {
+    border: 1px solid black; /* Border style */
+    padding: 20px; /* Padding around the box */
+    border-radius: 8px; /* Rounded corners */
+    background-color: rgba(255, 0, 0, 0.057);
+  }
